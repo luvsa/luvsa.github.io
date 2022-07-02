@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luvsa.github.io</id>
+    <title>流逝的傷</title>
+    <updated>2022-07-02T21:34:39.552Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://luvsa.github.io"/>
+    <link rel="self" href="https://luvsa.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://luvsa.github.io/images/avatar.png</logo>
+    <icon>https://luvsa.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 流逝的傷</rights>
+    <entry>
+        <title type="html"><![CDATA[测试一下]]></title>
+        <id>https://luvsa.github.io/post/ce-shi-yi-xia/</id>
+        <link href="https://luvsa.github.io/post/ce-shi-yi-xia/">
+        </link>
+        <updated>2022-07-02T21:11:15.000Z</updated>
+        <content type="html"><![CDATA[<p>开始测试</p>
+]]></content>
+    </entry>
+</feed>
